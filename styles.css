@@ -1,0 +1,103 @@
+.table {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+table {
+    margin: 0 auto;
+}
+
+tr {
+    background-color: white;
+}
+
+.classProgram {
+    text-align: center;
+    margin: 30px 0 15px 0;
+}
+
+.sy2023 {
+    text-align: center;
+    margin: -10px 0 30px 0;
+}
+
+.ict11 {
+    text-align: center;
+}
+
+.author {
+    text-align: center;
+    margin: 105px 0 30px 0;
+    line-height: 5px;
+}
+
+.days {
+    background-color: #EEE3CB;
+}
+
+.time {
+    background-color: #FBECB2;
+}
+
+.subjects {
+    padding-top: 3px;
+    font-size: 15px;
+}
+
+.teacherPE {
+    padding-top: 2px;
+    font-size: 11.5px;
+}
+
+.teacherKompan {
+    padding-top: 2px;
+    font-size: 15px;
+}
+
+.teacherNET {
+    padding-top: 2px;
+    font-size: 12px;
+}
+
+.teacherPerdev {
+    font-size: 14px;
+}
+
+#bgcolorPE {
+    background-color: #FFC436;
+}
+
+#bgcolorKompan {
+    background-color: #D7E5CA;
+}
+
+#bgcolorOralcom {
+    background-color: #F8DE22;
+}
+
+#bgcolorHG {
+    background-color: #D54C4C;
+}
+
+#bgcolorNET {
+    background-color: lightblue;
+}
+
+#bgcolorELS {
+    background-color: #FFC8C8;
+}
+
+#bgcolorPerdev {
+    background-color: #D8D9DA;
+}
+
+#bgcolorUCSP {
+    background-color: #75C2F6;
+}
+
+#bgcolorGenmath {
+    background-color: #FF9B9B;
+}
+
+#bgcolorTeachers {
+    background-color: #FFF1DC;
+}
